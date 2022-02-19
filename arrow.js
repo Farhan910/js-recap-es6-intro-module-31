@@ -2,6 +2,10 @@ const sum1 = (num1,num2) => num1 + num2;
 const value1 = sum1(10,15);
 console.log(value1);
 
+const bum = num => num  * 5;
+const value10 = bum(10);
+console.log(value10);
+
 
 const sum2 = (num1,num2,num3) => num1 + num2 + num3;
 const value2 = sum2(10,15,20);

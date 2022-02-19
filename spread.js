@@ -6,3 +6,5 @@ console.log(...numbers2)
 
 const max = Math.max (...numbers);
 console.log(max)
+
+
